@@ -10,6 +10,7 @@ const images = [
   { id: 5, src: "/images/zebra.jpg", title: "Zebra", fact: "Every zebra has a unique pattern of black and white stripes." },
   { id: 6, src: "/images/panda.jpg", title: "Panda", fact: "Pandas have lived on Earth for two to three million years." },
   { id: 7, src: "/images/kangaroo.jpg", title: "Kangaroo", fact: "Kangaroos can hop around quickly on two legs or walk around slowly on all four." },
+  { id: 8, src: "/images/hippo.jpg", title: "Hippo", fact: "Hippos are the third largest land mammals after elephants and white rhinos." },
 ];
 
 const Gallery = () => {
