@@ -1,6 +1,7 @@
 import React from "react";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { AspectRatio } from "@/components/ui/aspect-ratio";
+import hydraImage from "/images/hydra.jpg";
 
 const images = [
   { id: 1, src: "/images/lion.jpg", title: "Lion", fact: "Lions are the only cats that live in groups." },
@@ -21,6 +22,7 @@ const images = [
   { id: 16, src: "/images/ox.jpg", title: "Ox", fact: "Oxen are strong and are often used as draft animals." },
   { id: 17, src: "/images/cow.jpg", title: "Cow", fact: "Cows have a strong sense of smell and can detect odors up to six miles away." },
   { id: 18, src: "/images/burgeon-blue.jpg", title: "Burgeon Blue", fact: "Burgeon Blue is a unique blue-colored cow known for its strength and health." },
+  { id: 19, src: hydraImage, title: "Hydra", fact: "The hydra is a mythical multi-headed serpent-like creature known for its regenerative abilities." },
 ];
 
 const Gallery = () => {
