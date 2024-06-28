@@ -20,6 +20,7 @@ const images = [
   { id: 15, src: "/images/unicorn.jpg", title: "Unicorn", fact: "Unicorns are legendary creatures known for their magical powers and single horn." },
   { id: 16, src: "/images/ox.jpg", title: "Ox", fact: "Oxen are strong and are often used as draft animals." },
   { id: 17, src: "/images/cow.jpg", title: "Cow", fact: "Cows have a strong sense of smell and can detect odors up to six miles away." },
+  { id: 18, src: "/images/burgeon-blue.jpg", title: "Burgeon Blue", fact: "Burgeon Blue is a unique blue-colored cow known for its strength and health." },
 ];
 
 const Gallery = () => {
