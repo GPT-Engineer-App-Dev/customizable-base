@@ -18,6 +18,7 @@ const images = [
   { id: 13, src: "/images/white-tailed-eagle.jpg", title: "White-Tailed Eagle", fact: "White-tailed eagles are one of the largest birds of prey in Sweden." },
   { id: 14, src: "/images/black-grouse.jpg", title: "Black Grouse", fact: "Black grouse are known for their distinctive mating displays and are found in Swedish forests." },
   { id: 15, src: "/images/unicorn.jpg", title: "Unicorn", fact: "Unicorns are legendary creatures known for their magical powers and single horn." },
+  { id: 16, src: "/images/ox.jpg", title: "Ox", fact: "Oxen are strong and are often used as draft animals." },
 ];
 
 const Gallery = () => {
