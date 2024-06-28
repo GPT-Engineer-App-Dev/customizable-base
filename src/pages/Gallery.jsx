@@ -6,7 +6,10 @@ const images = [
   { id: 1, src: "/images/lion.jpg", title: "Lion", fact: "Lions are the only cats that live in groups." },
   { id: 2, src: "/images/elephant.jpg", title: "Elephant", fact: "Elephants are the largest land animals on Earth." },
   { id: 3, src: "/images/tiger.jpg", title: "Tiger", fact: "Tigers have striped skin, not just striped fur." },
-  // Add more animal images and facts as needed
+  { id: 4, src: "/images/giraffe.jpg", title: "Giraffe", fact: "Giraffes are the tallest mammals on Earth." },
+  { id: 5, src: "/images/zebra.jpg", title: "Zebra", fact: "Every zebra has a unique pattern of black and white stripes." },
+  { id: 6, src: "/images/panda.jpg", title: "Panda", fact: "Pandas have lived on Earth for two to three million years." },
+  { id: 7, src: "/images/kangaroo.jpg", title: "Kangaroo", fact: "Kangaroos can hop around quickly on two legs or walk around slowly on all four." },
 ];
 
 const Gallery = () => {
