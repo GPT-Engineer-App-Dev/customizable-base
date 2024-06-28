@@ -17,6 +17,7 @@ const images = [
   { id: 12, src: "/images/eurasian-elk.jpg", title: "Eurasian Elk", fact: "The Eurasian elk is a large deer species found in the forests of Sweden." },
   { id: 13, src: "/images/white-tailed-eagle.jpg", title: "White-Tailed Eagle", fact: "White-tailed eagles are one of the largest birds of prey in Sweden." },
   { id: 14, src: "/images/black-grouse.jpg", title: "Black Grouse", fact: "Black grouse are known for their distinctive mating displays and are found in Swedish forests." },
+  { id: 15, src: "/images/unicorn.jpg", title: "Unicorn", fact: "Unicorns are legendary creatures known for their magical powers and single horn." },
 ];
 
 const Gallery = () => {
