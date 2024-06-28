@@ -12,6 +12,11 @@ const images = [
   { id: 7, src: "/images/kangaroo.jpg", title: "Kangaroo", fact: "Kangaroos can hop around quickly on two legs or walk around slowly on all four." },
   { id: 8, src: "/images/hippo.jpg", title: "Hippo", fact: "Hippos are the third largest land mammals after elephants and white rhinos." },
   { id: 9, src: "/images/icelandic-horse.jpg", title: "Icelandic Horse", fact: "Icelandic horses are known for their unique gaits and small, sturdy build." },
+  { id: 10, src: "/images/moose.jpg", title: "Moose", fact: "Moose are the largest species in the deer family and are known for their impressive antlers." },
+  { id: 11, src: "/images/lynx.jpg", title: "Lynx", fact: "Lynxes are medium-sized wild cats known for their tufted ears and short tails." },
+  { id: 12, src: "/images/eurasian-elk.jpg", title: "Eurasian Elk", fact: "The Eurasian elk is a large deer species found in the forests of Sweden." },
+  { id: 13, src: "/images/white-tailed-eagle.jpg", title: "White-Tailed Eagle", fact: "White-tailed eagles are one of the largest birds of prey in Sweden." },
+  { id: 14, src: "/images/black-grouse.jpg", title: "Black Grouse", fact: "Black grouse are known for their distinctive mating displays and are found in Swedish forests." },
 ];
 
 const Gallery = () => {
