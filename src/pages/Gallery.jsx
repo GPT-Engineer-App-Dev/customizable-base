@@ -11,6 +11,7 @@ const images = [
   { id: 6, src: "/images/panda.jpg", title: "Panda", fact: "Pandas have lived on Earth for two to three million years." },
   { id: 7, src: "/images/kangaroo.jpg", title: "Kangaroo", fact: "Kangaroos can hop around quickly on two legs or walk around slowly on all four." },
   { id: 8, src: "/images/hippo.jpg", title: "Hippo", fact: "Hippos are the third largest land mammals after elephants and white rhinos." },
+  { id: 9, src: "/images/icelandic-horse.jpg", title: "Icelandic Horse", fact: "Icelandic horses are known for their unique gaits and small, sturdy build." },
 ];
 
 const Gallery = () => {
