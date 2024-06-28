@@ -19,6 +19,7 @@ const images = [
   { id: 14, src: "/images/black-grouse.jpg", title: "Black Grouse", fact: "Black grouse are known for their distinctive mating displays and are found in Swedish forests." },
   { id: 15, src: "/images/unicorn.jpg", title: "Unicorn", fact: "Unicorns are legendary creatures known for their magical powers and single horn." },
   { id: 16, src: "/images/ox.jpg", title: "Ox", fact: "Oxen are strong and are often used as draft animals." },
+  { id: 17, src: "/images/cow.jpg", title: "Cow", fact: "Cows have a strong sense of smell and can detect odors up to six miles away." },
 ];
 
 const Gallery = () => {
